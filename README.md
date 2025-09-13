@@ -72,4 +72,6 @@ bastion-host-project/
 ```
 
 ---
+
+Remember to Run the terraform and then Use to make the new Key Pair for this to prevent the Duplication error Sometime
 https://roadmap.sh/projects/bastion-host
